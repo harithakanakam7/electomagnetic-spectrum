@@ -84,11 +84,6 @@ Where:
 - Night vision
 - Optical fiber communication
 - Medical heat treatments
-  
-  
-### FUN ACTIVITY:
-  
-              https://viewspace.org/interactives/unveiling_invisible_universe/forms_of_light/electromagnetic_spectrum?utm_source=chatgpt.com
 
 ---
 
@@ -129,7 +124,7 @@ Red → Orange → Yellow → Green → Blue → Indigo → Violet
 
 ---
 
-##3.6 X-Rays
+## 3.6 X-Rays
 **Wavelength:** 0.01 nm – 10 nm  
 
 ### Sources
