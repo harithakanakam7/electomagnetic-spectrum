@@ -85,6 +85,7 @@ Where:
 - Optical fiber communication
 - Medical heat treatments
   
+  
 ### FUN ACTIVITY:
   
               https://viewspace.org/interactives/unveiling_invisible_universe/forms_of_light/electromagnetic_spectrum?utm_source=chatgpt.com
